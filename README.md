@@ -5,7 +5,7 @@
 
 A new approach to Container-Based Dependency Injection for Swift and SwiftUI.
 
-## Factory 2.4.3
+## Factory 2.4.4
 
 Factory is strongly influenced by SwiftUI, and in my opinion is highly suited for use in that environment. Factory is...
 
@@ -158,7 +158,7 @@ This is a powerful concept that lets us reach deep into a chain of dependencies 
 
 ## Testing
 
-The same concept can be used used when writing unit tests. Consider the following.
+The same concept can be used when writing unit tests. Consider the following.
 
 ```swift
 final class FactoryCoreTests: XCTestCase {
